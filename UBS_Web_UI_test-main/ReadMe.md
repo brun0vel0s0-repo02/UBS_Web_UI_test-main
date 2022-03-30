@@ -14,5 +14,5 @@ Instructions
 
 3 Add the From , To , Start Date and End Date as required in file  src/main/resources/paramData.json
 
-4 After cloning the project from github repo , cd to file location from CMD and execute following command -> gradlew test 
+4 cd to file location from CMD and execute following command -> gradlew test 
 
