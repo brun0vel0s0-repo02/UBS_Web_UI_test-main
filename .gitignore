@@ -1,0 +1,5 @@
+# Project exclude paths
+/UBS_Web_UI_test-main/.gradle/
+/UBS_Web_UI_test-main/build/
+/UBS_Web_UI_test-main/build/classes/java/main/
+/UBS_Web_UI_test-main/build/classes/java/test/
